@@ -1,0 +1,20 @@
+export const Robots =[
+    {
+        id:1,
+        name:"abc",
+        username:"001",
+        email:"abc@gmail.com"
+    },
+    {
+        id:2,
+        name:"xyz",
+        username:"002",
+        email:"xyz@gmail.com"
+    },
+    {
+    id:3,
+    name:"asd",
+    username:"003",
+    email:"asd@gmail.com"
+    },
+]
